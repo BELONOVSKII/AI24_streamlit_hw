@@ -4,3 +4,5 @@ Used tools:
 * Streamlit
 * OpenWeather API
 * aiohttp
+
+Streamlit cloud app: https://ai24apphw-3wdccqy3sup25vappcrtrg.streamlit.app/
